@@ -1,0 +1,13 @@
+Existe o interruptor: A, B e C.
+Existe a sala: 1, 2 e 3.
+
+Irei deixar o interruptor A e B ligado, na minha primeira ida irei para a sala 1, se a sala 1 estiver apagada, irei 
+retornar para a sala dos interruptores e irei desligar o interruptor A e deixarei ligado o B, agora vou para a sala 2, se 
+a lâmpada da sala 2 estiver apagada, a resposta será:
+
+Interruptor A, Sala  2.
+Interruptor B, Sala  1.
+Interruptor C, Sala  3.
+
+
+
